@@ -6,7 +6,7 @@
 
 int main(){
 
-    
+    //Teste
     //Video 50 do curso do John
     //Para acessar as funções da biblioteca string tenho q acrescentar std e crio a string:
 
